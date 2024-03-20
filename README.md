@@ -1,6 +1,6 @@
 # Hello Everyone! My name is Erik Leon 👋🙂
 ![[ErikLeon]](https://github.com/eleonKT/readmeTest/blob/main/Introduction.jpeg)
-## I'm a Software Engineering Student on his last year of bachelor's. (Finishing on Dec-2024).
+## I'm a Software Engineering Student on his last year of bachelor's. (Concluding in Dec-2024).
 
 ### I learned english by myself (with guidance of youtubers, podcast, different kind of websites, books and topics like Psychology, Technology, and more).
 
